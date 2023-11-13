@@ -1,0 +1,10 @@
+; 2L_3P_Conv.def : Declares the module parameters for the DLL.
+
+LIBRARY      "2L_3P_Conv"
+DESCRIPTION  '2L_3P_Conv DLL Block For PSIM'
+
+EXPORTS
+	SimulationBegin
+	SimulationStep
+	SimulationEnd
+	REQUESTUSERDATA

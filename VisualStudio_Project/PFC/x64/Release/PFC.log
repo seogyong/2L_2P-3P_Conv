@@ -1,0 +1,14 @@
+﻿  function.c
+  Simulation.c
+  REQUESTUSERDATA.c
+  Previous IPDB not found, fall back to full compilation.
+2L_3P_Conv.def(4): warning LNK4017: 대상 플랫폼에는 DESCRIPTION 문이 지원되지 않습니다. 무시됩니다.
+     C:\Users\seogy\OneDrive\바탕 화면\2L_2P&3P_Conv\VisualStudio_Project\x64\Release\PFC.lib 라이브러리 및 C:\Users\seogy\OneDrive\바탕 화면\2L_2P&3P_Conv\VisualStudio_Project\x64\Release\PFC.exp 개체를 생성하고 있습니다.
+PFC.exp : warning LNK4070: /OUT: .EXP의 2L_3P_Conv.dll 지시문이 'C:\Users\seogy\OneDrive\바탕 화면\2L_2P&3P_Conv\VisualStudio_Project\x64\Release\PFC.dll' 출력 파일 이름과 다릅니다. 지시문이 무시됩니다.
+  코드를 생성하고 있습니다.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+PFC.exp : warning LNK4070: /OUT: .EXP의 2L_3P_Conv.dll 지시문이 'C:\Users\seogy\OneDrive\바탕 화면\2L_2P&3P_Conv\VisualStudio_Project\x64\Release\PFC.dll' 출력 파일 이름과 다릅니다. 지시문이 무시됩니다.
+  PFC.vcxproj -> C:\Users\seogy\OneDrive\바탕 화면\2L_2P&3P_Conv\VisualStudio_Project\x64\Release\PFC.dll
+  copy dll file
+          1개 파일이 복사되었습니다.
